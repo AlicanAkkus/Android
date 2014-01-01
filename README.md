@@ -1,4 +1,4 @@
 Android
 =======
 
-listview - create - database
+How to create listview with sqlite database in Android
